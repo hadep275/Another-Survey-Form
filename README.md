@@ -22,6 +22,6 @@ The CSS file (`styles.css`) provides modern and elegant styling for the survey f
 
 ## Deployed Link
 
-You can access the deployed Survey Form by clicking the following link: [Survey Form](https://your-survey-form-url.com)
+You can access the deployed Survey Form by clicking the following link: [Survey Form](https://hadep275.github.io/Another-Survey-Form/)
 
 Feel free to adapt and customize this form to suit your project's needs.
