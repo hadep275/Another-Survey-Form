@@ -43,7 +43,7 @@ body {
 label {
     font-weight: bold;
     font-size: 18px;
-    display: block;
+/*     display: block; */
     margin-top: 15px;
 }
 
