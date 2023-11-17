@@ -24,4 +24,7 @@ The CSS file (`styles.css`) provides modern and elegant styling for the survey f
 
 You can access the deployed Survey Form by clicking the following link: [Survey Form](https://hadep275.github.io/Another-Survey-Form/)
 
+![screencapture-hadep275-github-io-Another-Survey-Form-2023-11-17-15_29_38](https://github.com/hadep275/Another-Survey-Form/assets/65734173/f399a6be-2e80-4ae1-953e-f0d644372d4a)
+
+
 Feel free to adapt and customize this form to suit your project's needs.
